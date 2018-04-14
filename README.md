@@ -1,10 +1,10 @@
 # CA.rng
 
-Cellular automata (CA) are a class of discrete algorithms that, despite their simplicity, exhibit considerable complexity.  Some CAs appear to represent physical phenomena, others display nothing interesting whatsoever.
+Cellular automata (CA) are a class of discrete algorithms that, despite their simplicity, exhibit considerable complexity.  Some CAs appear to represent physical phenomena, others display nothing interesting whatsoever.  The general trend, however, is that the self-interaction and non-linearity of CAs results in emergent behavior.  Other well known examples are Conway's "Game of Life" and the lattice-boltzmann formulation of hydrodynamics.
 
 CA.rng is a set of utilities that implement a general computational framework for CAs by bitwise arithmetic.  The binary logic is encoded such that the compiler will load and operate in register space, for high performance applications.
 
-Three CA utilies are included: a general CA code that outputs the bitstream for display, (2) a pseudo-random number generator and (3) a toy crypographic cipher based on a 256-bit CA to serve as the S-box in a Feistel network .  All examples apply the "rule 30" CA for demonstration.
+Three CA utilies are included: (1) a general CA code that outputs the bitstream for display, (2) a pseudo-random number generator and (3) a toy crypographic cipher based on a 256-bit CA to serve as the S-box in a Feistel network .  All examples apply the "rule 30" CA for demonstration.
 
 
 ## Installing
