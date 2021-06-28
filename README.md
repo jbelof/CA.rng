@@ -30,6 +30,7 @@ Finally, a toy symmetric block cipher, XR30256, is included in the code "rule30.
 
 * **Jon Belof** [jbelof@github](https://github.com/jbelof)  
 
+[home page](http://people.llnl.gov/belof1)  
 [google scholar](https://scholar.google.com/citations?user=gNrlNbwAAAAJ&hl=en)  
 [research gate](https://www.researchgate.net/profile/Jon_Belof)  
 [linkedin](http://www.linkedin.com/in/jbelof)  
